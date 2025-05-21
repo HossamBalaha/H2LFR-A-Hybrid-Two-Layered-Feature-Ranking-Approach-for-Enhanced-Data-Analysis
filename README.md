@@ -149,7 +149,7 @@ The following command-line arguments are supported:
     - "XGB": eXtreme Gradient Boosting Classifier
 - `--storeDetailedFiles` (bool, optional, default=False): Whether to store detailed result files.
 
-Example Usage
+## Usage Examples
 
 Example 1 (with default parameters):
 To run the framework with the default parameters, you can use the following command:
