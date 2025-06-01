@@ -194,11 +194,12 @@ If you use this framework in your research, please cite the following paper:
 
 ```bibtex
 @article{balaha2025h2lfr,
-  title={H2LFR: A hybrid two-layered feature ranking approach for enhanced data analysis},
+  title={H2LFR: a hybrid two-layered feature ranking approach for enhanced data analysis},
   author={Balaha, Hossam Magdy and Hassan, Asmaa El-Sayed and Balaha, Magdy Hassan},
   journal={Knowledge and Information Systems},
+  pages={1--53},
   year={2025},
-  publisher={Springer},
+  publisher={Springer}
 }
 ```
 
